@@ -1,0 +1,6 @@
+{
+  "name": "NUX MG-101 Quick Tone",
+  "description": "Tone Studio editor and wired OTG remote control app for NUX MG-101 processor with signal chain visualizer, patch library manager, IR loader, chromatic tuner, drum & loop, and cloud presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

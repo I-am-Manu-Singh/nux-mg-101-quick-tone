@@ -1,0 +1,525 @@
+==================== PAGE 1 ====================
+NUX
+70's Hard Rock
+8DE
+SELECT
+MG-1010 QUAN
+LOOP
+©Cherub Technology Co., Ltd.
+All Rights Reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical,
+photocopying, recording, or otherwise, without the prior written permission of Cherub Technology Co., Ltd.
+FE CERV UK
+Made in China
+www.nuxaudio.com
+TS/ACHD
+MG-101
+Modeling Guitar Processor
+User Manual
+NUX
+CORE
+IMAGE
+TS/AC HD
+==================== PAGE 2 ====================
+Copyright
+Copyright 2024 Cherub Technology Co. All rights reserved. NUX and MG-101 are trademarks of Cherub Technology Co. Other product names modeled in this product
+are trademarks of their respective companies that do not endorse and are not associated or affiliated with Cherub Technology Co.
+Accuracy
+Whilst every effort has been made to ensure the accuracy and content of this manual, Cherub Technology Co. makes no representations or warranties regarding the
+WARNING!-IMPORTANT SAFETY INSTRUCTIONS
+BEFORE CONNECTING, READ INSTRUCTIONS
+WARNING: To reduce the risk of fire or electric shock, do not expose this appliance
+CAUTION: To reduce the risk of fire or electric shock, do not remove screws. No
+to rain or moisture.
+user-serviceable parts inside. Refer servicing to qualified service personnel.
+This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2
+this device must accept any interference received. including interference that may cause undesired operation. Any changes or modifications not expressiv approved
+by the party responsible for compliance could void the user's authority to operate the equipment.
+NOTE: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed
+to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and,
+if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that
+interference will not occur in a particular installation.
+If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is
+encouraged to try to correct the interference by one or more of the following measures:
+-Reorient or relocate the receiving antenna.
+-Increase the separation between the equipment and receiver.
+-Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+-Consult the dealer or an experienced radio/TV technician for help. The device has been evaluated to meet general RF exposure requirement. The device can be used
+in portable exposure condition without restriction.
+The lightning symbol within a triangle means "electrical caution!" It
+indicates the presence of information about operating voltage and
+The exclamation point within a triangle means "caution!" Please
+read the information next to all caution signs.
+potential risks of electrical shock.
+1. Use only the supplied power supply or power cord. If you are not sure of the type of power available, consult your dealer or local power company.
+2. Do not place near heat sources, such as radiators, heat registers, or appliances which produce heat.
+3. Guard against objects or liquids entering the enclosure.
+4. Do not attempt to service this product yourself, as opening or removing covers may expose you to dangerous voltage points or other risks. Refer all servicing to
+5. Refer all servicing to qualified service personnel. Servicing is required when the apparatus has been damaged in any way, such as when the power supply cord or
+plug is damaged, liquid has been spilled or objects have fallen into the apparatus, the apparatus has been exposed to rain or moisture, does not operate normally or
+has been dropped.
+6. The power supply cord should be unplugged when the unit is to be unused for long periods of time.
+7. Protect the power cord from being walked on or pinched particularly at plugs, convenience receptacles and at the point where they exit from the apparatus.
+8. Prolonged listening at high volume levels may cause irreparable hearing loss and/or damage. Always be sure to practice "safe listening".
+Follow all instructions and heed all warnings
+KEEP THESE INSTRUCTIONS!
+01
+Overview
+The NUX MG-101 is our entry level modeler. MG-101 includes a powerful DSP that drives our high-definition
+White-Box Amp Modeling algorithm (TSAC-HD) and Core-Image post-effects. Since we released our best selling
+compact modeler MG-300 a few years ago, people were blown away by the sound and playability, especially
+with the easy tone tweaking and the intuitive interface. And now, the MG-101 offers you: 10 signal blocks, 12 IR
+COLLECTION slots, P.L block with MIN/MAX and PRE/POST position setup, an abundant SYSTEM MENU, TRRS
+headphones out (which supports headset mic), and USB to OTG recording.
+• Features
+• 2.4" 320*240 color LCD with intuitive Ul.
+• NG, CMP, EFX, AMP, IR, EQ, MOD, DLY, RVB, P.L I 10 independent signal blocks.
+• White-box Amp Modeling & Pre-efx algorithm (TSAC-HD) offers realistic playability and analog-chaos response.
+• 512 samples IR resolution and USER slot with each patch. (additional 12 IR COLLECTION slots)
+• 25 classic electric guitar amp models offer various music style.
+• Input trim with Global EQ under SYSTEM MENU.
+• PARA. FOLLOW function to track your effect tweaking habits.
+• 5 output modes with 3 band EQ for quick tone tweaking.
+(Aside from STUDIO DIRECT, the others modes will disengage IR signal by default.)
+• USB recording interface, firmware update, QuickTone™M edit software.
+• TRRS headphones out support headset mic for live streaming. (OTG with the mobile device.)
+• Phrase looper with auto tempo detection drum machine.
+*This is a quick manual to drive you quickly operate the MG-101, if you are looking for deep information, please
+visit the product page and Facebook discussion group.
+02
+==================== PAGE 3 ====================
+L Device Connect
+Phone
+OTG
+or
+Headphones
+03
+or
+Computer Recording
+• Phone
+USB
+(TRRS) I Input
+NU»
+M0.101
+MG-101
+Guitar
+70's Hard Rock
+'8D
+099-9999
+CRUSO
+MG-101 ROELN GUTAN
+LOOP
+TUNEA
+Number
+[Name
+EDIT/EXIT button
+SAVE button
+MODE button
+JAM button
+Tap button
+EXP button
+LEFT button
+TS/AC HD
+DRUM/E
+Control Panel
+NU>
+lumber
+8
+Name
+PAGE button
+RIGHT button
+SELECT knob
+Parameter Adjustment knob
+DOWN/LOOP FOOT SWITCH
+UP/DRUM FOOT SWITCH
+EXPRESSION PEDAL
+04
+==================== PAGE 4 ====================
+EDIT/EXIT button
+Under PRESET mode, press EDIT/EXIT button to enter to AMP editing, to adjust the parameters. Press
+EDIT/EXIT button again to quit PRESET mode.
+SAVE button
+Under PRESET mode or editing mode, press SAVE button to save current patch.
+SAVE
+8D 70's Hard Rock
+Data Saving...
+MODE button
+Press MODE button to select the OUTPUT MODE. Rotate the SELECT knob to choose, then short press SELECT
+knob can recall the global EQ default parameter. 1~3 Parameter Adjustment knob adjusts the LOW, MID, HIGH
+global output EQ parameters.
+OUTPUT MOOL
+STACK FRONT
+OUTPUT MOO
+STArY RECE
+OUTPUT MODE
+OUTPUT MODI
+COMRO REAL
+OUTPUT MOD!
+COMBO FRONT
+OUTPUT MODE
+STUDIO DIRECT
+U
+Press EDIT/EXIT button to quit OUTPUT MODE.
+JAM button
+Press the JAM button to enter to drum & loop, in the meantime, press the PAGE button to visit the 2™
+pages for additional DRUM options and DRUM EQ tweaking. Rotate SELECT knob, 1~3 Parameter Adjustment
+knob to tweak related parameters.
+LOOP & DRUM
+LOOp
+1 Standard
+DRUM
+• 1 Standard
+Base
+TOERIN
+05
+• You can choose STEREO / MONO loop. (Stereo is 20 seconds, mono is 40 seconds.)
+• NR = Normal Recording, AR = Auto Recording.
+NR works as regular loop function, while you press LOOP
+footswitch, it starts to record the phrase loop. AR
+will stand by while you press LOOP footswitch, once you hit the strings, it will start to record your phrase loop.
+Press Once
+Hold
+Press Twice
+Press & Hold
+PLAY
+= PLAY
+REC OVERDUB-
+PLAY C
+= UNDO
+STOP
+CLEAR
+- REDO -
+• DRUM footswitch can trigger the drum machine under JAM function.
+Press Once
+• PLAY
+C
+• STOP -
+TAP button
+Tap the TAP button under PRESET mode to assign a current BPM for DLY SUB D. reference. (The TAP
+button/indicator will flash 16 times to present the BPM speed.) Under JAM, the TAP button can set the DRUM
+tempo.
+TAP
+70's Hard Rock
+8DĘ
+→
+DRUM
+• 1 Standard
+STYLE
+ROCK
+VOLUME
+EXP button
+Press EXP button to choose the EXP control block: WAH, EFX, AMP, MOD, DLY, RVB, ---.
+PAGE button
+While in Edit Mode, press the PAGE button to go to the next/previous page.
+Page turning
+70's Hard Rock
+DUAL RECT
+70's Hard Rock
+DUAL RECT
+→
+06
+==================== PAGE 5 ====================
+LEFT & RIGHT button
+Under PRESET mode, press LEFT/RIGHT button can go to 1~9 patch group quickly. For example, if you located
+in 1A currently, press RIGHT button, then the digit flashes 2, press RIGHT button again, it flashes 3. Once you
+press UP/DOWN footswitch, it will go to 3A immediately.
+Under edit mode, press LEFT/RIGHT button to change the GREEN target block to tweak the related block parameters.
+EDIT MODE
+70's Hard Rock
+70's Hard Rock
+70's Hard Rock
+TUNER
+CHROM
+M. 940.
+Note: G CPS is guitar compensated tuning algorithm.
+Press UP & DOWN footswitches again to exit TUNER. (Pressing EDIT/EXIT button also allows you to exit
+TUNER.)
+JALL Cit
+09909-409
+Short press SELECT knob can engage/disengage the current block.
+SELECT knob & 1/2/3 Parameter Adjustment knob
+While you enter to edit mode (press EDIT/EXIT button), you can rotate the SELECT knob to choose the model
+under the current block, and short press SELECT knob to engage/disengage the current block. Additionally, you
+can use 1/2/3 Parameter Adjustment knob to adjust the related parameters. Press PAGE button to go to
+different page.
+EDIT MODE
+70's Hard Rock
+70's Hard Rock
+DUAL RECT
+UP & DOWN FOOTSWITCHES
+DOWN FOOT SWITCH: During preset display, press once can go 1 patch down.
+UP FOOT SWITCH: During preset display, press once can go 1 patch up.
+Press UP & DOWN footswitches simultaneously, to access the on board TUNER. Short press SELECT knob to
+switch "mute / monitoring", rotate SELECT knob to switch "CHROM. / G CPS / G STD" tuning, rotate knob 3 to
+adjust A4: 430~450 Hz.
+07
+==================== PAGE 6 ====================
+Rear Panel
+INPUT
+OUTPUT
+Number
+Name
+DC 9V jack
+USB port
+PHONES jack
+Number
+Name
+AUX IN
+OUTPUT jack
+INPUT jack
+3
+DC 9V jack
+Connect the included adaptor (ACD-006A) to the DC 9V jack.
+USB port
+Connect the USB cable to computer for firmware update, USB recording, or QuickTone™ edit software editing.
+Note: Connect USB cable to computer, and hold DOWN & UP footswitches to turn on MG-101, then you can
+enter to DFU (Device Firmware Update) mode to do firmware update. For more details, please visit product page
+to check the firmware update guide and download the newest firmware & QuickTone™M edit software.
+MG-101
+Computer
+*To avoid QuickTone™M and USB audio stream connection issues, please unplug any other unnecessary USB MIDI
+devices or HUBs, and connect MG-101 directly to a USB port. If your laptop experiences connection issues, please try
+to update and reinstall the laptop's USB port driver or Windows Service Pack.
+MG-101 uses standard USB
+communication, there may be some interferences related to USB hardware and/ or HUBs, especially USB MIDI devices.
+09
+*For tech support issues and questions, please include the following information. This will help us identify the
+issue and offer a solution.
+Firmware version before Firmware Update.
+DFU Updater version.
+PC OS version (for example, MAC Big Sur 11.0.1).
+Current Firmware Version which has issues.
+Issue description.
+6
+Screenshot of QuickTone ™M connection or issue video.
+PHONES jack
+Connect your headphone to the 1/8" phone jack. The phones out support TRRS headset mic. It's convenient if
+you want to use MG-101 for live streaming.
+You can adjust the phones level through GLOBAL SETTING -> GLOBAL EQ
+GLOBAL EQ
+23248
+GLOBAL TO
+81288
+23248
+41+
+You can adjust the mic level through GLOBAL SETTING -> MIC & USB
+MIC & USB
+GLOBAL SETTING
+10
+4*+
+GLOBAL EO
+HIE B USE
+MICROPHONE:
+VOLUME MICTHRE
+→
+AUX IN
+Connect your MP3 player to the 1/8" AUX IN jack for playback.
+OUTPUT jack
+OUTPUT support 1/4" TS or TRS for MONO or STEREO signal.
+INPUT jack
+Connect your guitar to INPUT jack.
+10
+==================== PAGE 7 ====================
+Global Setting
+Here we will explain more details about GLOBAL SETTING's. It's intuitivly designed to enable you to operate it
+easily.
+Press EDIT/EXIT & SAVE buttons to enter to GLOBAL SETTING.
+GLOBAL SETTING
+GLOHAL SETTING
+GLOBAL 1O
+MART
+INFO
+It will show the current firmware version.
+INFO
+INFO
+Firmware: V2.3.02
+rated the bre
+gisalbi Thank yout
+EXP
+EXP Independent with patch means it's like a physical EXP pedal, while you engage it, it's always On, even when
+you select another patch.
+EXP pedal
+41+
+EXP IND.
+EXP INDEPENDENT W PATCH
+CALIBRATION
+SET PEDAL TO MIN THEN
+PRESS • N
+CALIBRATION
+SET PEDAL TO MAX THEN
+PRESS • A
+PRESS SAVE TO STORE
+EXP CALIBRATION, just follow the simple instruction to calibrate the EXP pedal.
+*Remember to do EXP CALIBRATION after performing a FIRMWARE UPDATE.
+Short press EDIT/EXIT to quit to SYSTEM MENU.
+11
+GLOBAL EQ
+You can tweak the INPUT TRIM & EQ here, and also adjust the PHONES & OUPUT level.
+GLOBAL EQ
+GLOBAL SETT
+GLOBAL EC
+21248
+21248
+2120E
+GLOBAL EO
+•8 - 8
+MARI
+Note: MG-101 doesn't offer global master volume control, so you can adjust the OUTPUT level under GLOBAL EQ.
+PARA. FOLLOW
+If you engage PARA. FOLLOW, while you leave the current efx model, MG-101 will remember the parameters
+while you choose the model again. If you turn off PARA. FOLLOW, while you choose the efx model, it will revert to
+the default parameters.
+PARA. FOLLOW
+GLOBAL SETTING
+PARA. FOLLOW
++*+
+→
+MARI
+FACTORY
+GLOBAL SETTI
+SYSTEM RESTORE
+GLOBAL FO
+GLOBAL SETTIN
+FACTORY
+FACTORY RESET
+FACTORY RESET
+97/132 is resetting...
+HARDWARE INSPECTION
+SYSTEM RESTORE
+so so so so
+INSPECTION
+FACTORY RES
+Success!
+PLEASE REBOOT THE DEVICE
+MARDWARE INSPECTIO
+Succeeet
+PLEASE REBOOT THE DEVICE
+12
+==================== PAGE 8 ====================
+After firmware update, remember to perform a FACTORY RESET to rearrange system data.
+Hardware inspection can help you detect the hardware work status.
+MIC & USB
+You can adjust the microphone parameters like VOLUME, MIC NOISE GATE (THRE. & DECAY), AUX IN VOLUME,
+USB IN & OUT LEVEL.
+MIC & USB
+GLOBAL SEMINI
+AUX IN:
+USB AUDIO:
+QuickTone™ Editor
+You can download QuickTone™ editor from the product page. Here, you can see the interface for tweaking
+parameters, save patches, load patches, export patches, load IRs on QuickTone™.
+QuickTone™M Editor
+120 BPN
+1C CT J CI
+MICROPHONE:
+VOLUME
+THRONE CAFECAY
+GLOBAL EO
+nAR
+FACTORY MIc O USe
+VOLUM
+-O
+→
+→
+...
+JAZZ CLEAN -120
+CT-BOGNA
+CT-BOGNA
+1C CT J Clean
+-O
+Settings
+Round a
+For more details, you can check MG-101's tutorial videos on NUX YouTube channel.
+13
+14
+==================== PAGE 9 ====================
+Reference
+NG
+CMP
+EFX
+AMP
+IR
+EQ
+MOD
+Rose Comp
+RC Bst
+CE-1
+ST. Chorus
+DLY
+Anana Delayl d Phi Nol-
+RVB
+Room
+15
+Kilips Inve
+Fireman HBE| DUAL RECT
+DIE VH4
+Vibro King
+MR.Z.38
+JAZZ 212 | BLACK 112 | TWEED 410 | TWEED 112]
+TWIN 212 CUSTOM 412
+CAL 112
+CHED
+HBE 412
+RECT 412
+BOTM 412
+VIBRO 412
+EVL 112
+BUTO 212
+| SUPER 212
+Flande
+Digi Delaw
+Plate
+SCH-1
+Ph 90
+Phase 100
+honis-
+Spring
+Class A15
+BRIT 212
+U-Vibe
+BLUE 212
+DC 212
+Trem
+SLO 100|
+BRIT 2000|
+GREEN 412| G12L 412
+G12M 412|
+UBER 412
+T75 412
+MIC
+V30 412
++
+0414 E906 S57 U87
+Rty Spk
+Vihratn
+Harmony
+Detune
+Classic Chorus
+Specifications
+Input Impedance
+470k S
+AUX In Impedance
+25k R
+Output Impedance
+1k R
+Phone Impedance
+47 S
+Dynamic Range
+104 dB
+Sampling Rate
+48 kHz / 32 bit
+System Latency
+1.2 ms
+Power
+9V DC (Negative Tip, additional ACD-006A adaptor)
+Current Draw
+< 250mA
+Dimensions
+244(L) x 165(W) x 60(H)mm
+Weight
+920 g
+*Specifications and features are subject to change without notice.
+What's in the box?
+MG-101 x 1, Power adapter × 1, USB cable × 1, User manual × 1, NUX sticker × 1.
+*All the brand and model names mentioned on this page are Trademarks of their respective owners, which are in no way associated
+or affiliated with NUX Effects and Cherub Technology CO. LTD.
+16
